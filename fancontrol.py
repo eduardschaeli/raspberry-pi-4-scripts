@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+# Stolen and adapted from https://github.com/Howchoo/pi-fan-controller
 import RPi.GPIO as GPIO
 import time
 
